@@ -16,7 +16,7 @@ Here’s how it works:
 
 
 # DEMO
-### [Editor](https://stackblitz.com/edit/react-zj9pw5)
+### [See in Editor](https://stackblitz.com/edit/react-zj9pw5)
 ### [Application](https://react-zj9pw5.stackblitz.io)
 
 
