@@ -1,3 +1,18 @@
+Our Organizational Chart tool helps you easily visualize and manage your company’s hierarchy! With a user-friendly design and flexible features, you can create your organizational structure just the way you want. Whether you’re adding new teams or reorganizing existing ones, our tool makes it easy to add members in the way you want and then visually differentiate their relationships- whether linked or not, allowing you to tailor the chart to reflect your organization’s true structure.
+
+Here’s how it works:
+
+**Build Your Hierarchy**: Quickly add members to any position with the "+" button in each node, instantly creating new branches. Each node allows you to:
+
+Enter the position title.
+Select the person for the role.
+Easily add subordinates or remove the node entirely.
+
+**Linked vs. Independent Members**: Keep team members linked under the same manager using the branch’s "+" button to maintain a connected hierarchy. Want flexibility? Create independent branches by clicking the "+" in individual member nodes, allowing members to operate separately under the same manager.
+
+**Unlimited Flexibility:**  Add as many branches and members as needed! Each branch grows independently, perfect for even the most complex organizational structures.
+
+
 # DEMO
 ### Editor [URL](https://stackblitz.com/edit/react-zj9pw5)
 ### Application [URL](https://react-zj9pw5.stackblitz.io)
