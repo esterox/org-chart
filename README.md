@@ -4,9 +4,11 @@ Here’s how it works:
 
 **Build Your Hierarchy**: Quickly add members to any position with the "+" button in each node, instantly creating new branches. Each node allows you to:
 
-Enter the position title.
-Select the person for the role.
-Easily add subordinates or remove the node entirely.
+- Enter the position title.
+
+- Select the person for the role.
+
+- Easily add subordinates or remove the node entirely.
 
 **Linked vs. Independent Members**: Keep team members linked under the same manager using the branch’s "+" button to maintain a connected hierarchy. Want flexibility? Create independent branches by clicking the "+" in individual member nodes, allowing members to operate separately under the same manager.
 
