@@ -16,8 +16,8 @@ Here’s how it works:
 
 
 # DEMO
-### Editor [URL](https://stackblitz.com/edit/react-zj9pw5)
-### Application [URL](https://react-zj9pw5.stackblitz.io)
+### [Editor](https://stackblitz.com/edit/react-zj9pw5)
+### [Application](https://react-zj9pw5.stackblitz.io)
 
 
 # Getting Started with Create React App
