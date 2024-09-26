@@ -141,7 +141,7 @@ const NodeTree = ({
                                 {node?.members?.length > 1 && member?.branches?.length > 1 && <div className="lineRight"/>}
                                 <input
                                     value={inputValues[member.id] || ''}
-                                    placeholder='Possition'
+                                    placeholder='Position'
                                     onChange={(e) => handleInputChange(member.id, e.target.value)}
                                     onBlur={(e) => handleBlur(member.id, e.target.value)}
                                 />
